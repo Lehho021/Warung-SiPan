@@ -1,6 +1,5 @@
 <h1>Si-Pan</h1>
 
-<h2>Nama Kelompok:</h2>
 <ul>
 
   <li> Warung SiPan By : LeonHoss Hutagaol </li>
